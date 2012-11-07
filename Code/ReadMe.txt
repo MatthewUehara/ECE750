@@ -3,7 +3,7 @@ Copyright 2012. All code (c) 2012 all Rights Reserved. Permission to use, copy, 
 and distribute this software and its documentation need a signed licensing agreement 
 from the authors, this paragraph and the following two paragraphs appear in all copies, modifications, and distributions.
 
-Created by Ming Matthew Ma and , Jesus [LastName] Department of Electrical and Computer Engineering, University of Waterloo.
+Created by Ming Matthew Ma and , Jesus Alejandro Department of Electrical and Computer Engineering, University of Waterloo.
 
 IN NO EVENT SHALL REGENTS BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL,
 OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE
