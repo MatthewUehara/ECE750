@@ -1,3 +1,6 @@
+import java.io.*;
+import java.util.*;
+
 public static String diffSideBySide(String fromStr, String toStr){
     // this is equivalent of running unix diff -y command
     // not pretty, but it works. Feel free to refactor against unit test.
@@ -116,4 +119,18 @@ private static int maxLength(String[] fromLines) {
         }
     }
     return maxLength;
+}
+
+public class Test{
+	public static void main(String []args){
+		String fromText="test 1,2,3,4\
+							test 5,6,7,8\
+							test 9,10,11,12\
+							test 13,14,15,16";
+		String toText="test 1,2,3,4\
+						test 5,6,7,8\
+						test 9,10,11,12,13\
+						test 13,14,15,16";
+		String res= diffSideBySide(fromText,toText);
+	}
 }
