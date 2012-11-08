@@ -1,0 +1,8 @@
+0 .. * c1_car : clafer 1 .. 1 {
+  0 .. * c2_engine : clafer 1 .. 1 {
+    }
+  1 .. * c3_radio : clafer 0 .. 1 {
+    0 .. * c4_cdPlayer : clafer 0 .. 1 {
+      }
+    }
+  }
